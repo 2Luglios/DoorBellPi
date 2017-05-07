@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.eclipse.jetty.annotations.AnnotationParser.AbstractHandler"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.handler.AbstractHandler"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.server.Server"/>
+<fullyQualifiedTypeName name="br.com.a2luglios.doorbellpi.web.ServerPiWeb"/>
+</qualifiedTypeNameHistroy>
